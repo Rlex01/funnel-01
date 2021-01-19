@@ -1,0 +1,34 @@
+
+    /* needed testing some stuff */
+.bg-dark1 {
+    background-color: rgba(0, 0, 0, 0.4);
+    width: 80%;
+    padding: 3rem;
+  }
+
+  
+  
+  /* End of testing */
+
+  @media only screen and (max-width: 600px) {
+
+    /* moble size text */
+   
+    .heading {
+        font-size: 1rem;
+       
+    }
+    header.masthead h1 {
+        font-size: 1.5rem;
+    }
+
+    .bg-dark1 {
+        width: 95%;
+    }
+
+    .f-arrow {
+        position: relative;
+        top: 7px;
+    }
+
+  }
