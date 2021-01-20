@@ -38,8 +38,8 @@ header.masthead h1 {
 
 @media (min-width:768px) {
     header.masthead {
-        padding-top: 12rem;
-        padding-bottom: 12rem
+        padding-top: 6rem;
+        padding-bottom: 6rem
     }
     header.masthead h1 {
         font-size: 2.5rem;
@@ -50,6 +50,10 @@ header.masthead h1 {
 
 .showcase .showcase-text {
     padding: 3rem
+}
+
+@media (min-width:768px) {
+    
 }
 
 .showcase .showcase-img {
