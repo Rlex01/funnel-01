@@ -19,7 +19,10 @@ header.masthead {
     background: url(../img/bg-masthead.jpg) no-repeat center center;
     background-size: cover;
     padding-top: 8rem;
-    padding-bottom: 8rem
+    padding-bottom: 8rem;
+    height: 100vh;
+    line-height: 2.5rem
+
 }
 
 header.masthead .overlay {
